@@ -74,7 +74,6 @@ extender la funcionalidad relativamente facil
     `
 
     este es el punto clave para usar la aplicacion
-
     deberia quedar asi:
 
     // src/models.py
