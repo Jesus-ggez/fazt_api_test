@@ -49,10 +49,10 @@ extender la funcionalidad relativamente facil
 
     despues dentro agrega la clase que quieras
     Ejemplo:
-```python
+    ```python
     class MyModel(BaseModel):
         ...
-```
+    ```
 
     lo recomendable es heredar de BaseModel
     para parsear mas facilmente
